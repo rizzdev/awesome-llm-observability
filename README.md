@@ -2,7 +2,7 @@
 
 > Tracing, monitoring, and evaluating LLM apps once they hit production.
 
-I put every LLM feature I ship behind a trace within the first week, because the alternative is guessing why a chain that worked fine in the demo fell apart for a real user. This list is the tools I've actually looked at for that job: platforms that capture spans and cost per call, evals that catch regressions before a release goes out, and the standards everyone is quietly converging on so you're not stuck reading one vendor's proprietary trace format forever.
+I put every LLM feature I ship behind a trace within the first week, because the alternative is guessing why a chain that worked fine in the demo fell apart for a real user. These are the tools I've actually looked at for that job: platforms that capture spans and cost per call, evals that catch regressions before a release goes out, and the standards everyone is quietly converging on so you're not stuck reading one vendor's proprietary trace format forever.
 
 Everything here has a real repo or a real product behind it, checked by hand. I kept the well-known platforms next to the small, newer projects on purpose, because a two-person team's sharper trace viewer is sometimes exactly what you need and the big names never bother building it. If something looked abandoned, was a thin wrapper with nothing behind it, or just duplicated a tool already on the list, it didn't make the cut.
 
