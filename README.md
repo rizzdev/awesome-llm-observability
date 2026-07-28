@@ -84,6 +84,7 @@ Everything here has a real repo or a real product behind it, checked by hand. I 
 - **[DeepEval](https://github.com/confident-ai/deepeval)** · Pytest-like open source LLM evaluation framework for RAG, chatbots and agents, implements G-Eval, hallucination and RAGAS-style metrics
 - **[promptfoo](https://github.com/promptfoo/promptfoo)** · CLI and library for testing, evaluating and red-teaming prompts, agents and RAG pipelines across 50+ model providers
 - **[Inspect AI](https://github.com/UKGovernmentBEIS/inspect_ai)** · Evaluation framework for LLMs and agents from the UK AI Safety Institute, with composable solvers, scorers and a rich log viewer, heavily used for agentic and safety evals
+- **[ClawBench](https://github.com/reacher-z/ClawBench)** 🌿 · Open benchmark for browser agents on real-world website tasks, recording actions, requests, messages and session video for reproducible evaluation
 - **[Ragas](https://github.com/explodinggradients/ragas)** · The de facto reference-free evaluation library for RAG pipelines, integrated into Langfuse, LangWatch and TruLens
 - **[TruLens](https://github.com/truera/trulens)** · Evaluation and tracking framework for LLM experiments and agents using feedback functions, instrumentation now built on OpenTelemetry
 - **[Giskard](https://github.com/Giskard-AI/giskard-oss)** · Open source evaluation, testing and red-teaming library for LLM agents and RAG apps that automatically flags hallucinations and security flaws
