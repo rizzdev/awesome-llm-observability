@@ -65,6 +65,7 @@ Everything here has a real repo or a real product behind it, checked by hand. I 
 - **[Parea](https://www.parea.ai/)** 🌿 · LLM evaluation, observability and human-annotation platform with a version-controlled prompt playground
 - **[traceAI](https://github.com/future-agi/traceAI)** 🌿 · OpenTelemetry-based tracing framework for AI applications across Python, TypeScript, Java and C#
 - **[Oodle.ai](https://www.oodle.ai/)** 🌿 · AI-native observability that ingests OpenTelemetry GenAI semantic-convention traces, positioned as a Datadog/Langfuse alternative
+- **[Speakeasy](https://www.speakeasy.com/product/ai-control-plane)** · Enterprise AI control plane for governing access, policy and auditability across agents, MCP servers and Skills
 
 <a id="self-hosted-open-source-stacks"></a>
 ## 🧰 Self-Hosted & Open-Source Stacks
