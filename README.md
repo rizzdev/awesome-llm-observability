@@ -65,6 +65,7 @@ Everything here has a real repo or a real product behind it, checked by hand. I 
 - **[Parea](https://www.parea.ai/)** 🌿 · LLM evaluation, observability and human-annotation platform with a version-controlled prompt playground
 - **[traceAI](https://github.com/future-agi/traceAI)** 🌿 · OpenTelemetry-based tracing framework for AI applications across Python, TypeScript, Java and C#
 - **[Oodle.ai](https://www.oodle.ai/)** 🌿 · AI-native observability that ingests OpenTelemetry GenAI semantic-convention traces, positioned as a Datadog/Langfuse alternative
+- **[Noveum](https://noveum.ai/en/docs)** 🌿 · Hosted agent tracing and evaluation platform with Python and TypeScript SDKs, datasets from real interactions, and model quality, latency, and cost comparisons
 
 <a id="self-hosted-open-source-stacks"></a>
 ## 🧰 Self-Hosted & Open-Source Stacks
