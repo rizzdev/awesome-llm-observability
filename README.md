@@ -147,6 +147,7 @@ Everything here has a real repo or a real product behind it, checked by hand. I 
 - **[Azure OpenAI Logger](https://github.com/aavetis/azure-openai-logger)** 🌿 · Logging for Azure OpenAI via an API Management proxy routed into Application Insights, keeps telemetry inside your own Azure subscription
 - **[openai-agents-tracing](https://github.com/yusuf-eren/openai-agents-tracing)** 🌿 · Open source tracing dashboard for the OpenAI Agents SDK, including costs and usage
 - **[costclaw-telemetry](https://github.com/Aperturesurvivor/costclaw-telemetry)** 🌿 · Free real-time LLM cost tracking and dashboard for OpenClaw agents, installs in about a minute
+- **[TokenSlim](https://github.com/devilking7x/tokenslim)** 🌿 · Local-first toolkit that cuts LLM API token spend — prompt compressor with real BPE counts, 350-skill router, model cascade, semantic cache, budget planner
 
 <a id="language-framework-sdks"></a>
 ## 🧩 Language & Framework SDKs
