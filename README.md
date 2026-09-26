@@ -130,6 +130,7 @@ Everything here has a real repo or a real product behind it, checked by hand. I 
 - **[AIOstack](https://github.com/aurva-io/AIOstack)** 🌿 · eBPF runtime visibility for AI workloads in Kubernetes, discovers shadow AI and traces LLM and tool activity with no code changes
 - **[clawlens](https://github.com/nk3750/clawlens)** 🌿 · Local OpenClaw plugin for agent observability and guardrails, risk scoring, audit trails and a dashboard
 - **[openclaw-exporter-to-langfuse](https://github.com/aliyun/openclaw-exporter-to-langfuse)** 🌿 · OpenClaw exporter that sends agent, LLM and tool tracing to Langfuse via OpenTelemetry, from Alibaba Cloud
+- **[openclaw-monitor](https://github.com/flik2002/openclaw-monitor)** 🌿 · Free open-source monitoring dashboard for OpenClaw agents: token usage, session tracking, 7-day trends, multi-model support. Vue 3 + ECharts
 - **[ClaudeSec](https://github.com/aanjaneyasinghdhoni/ClaudeSec)** 🌿 · Real-time AI agent observability dashboard that visualizes OpenTelemetry traces as a communication graph
 
 <a id="cost-token-tracking"></a>
