@@ -131,6 +131,7 @@ Everything here has a real repo or a real product behind it, checked by hand. I 
 - **[clawlens](https://github.com/nk3750/clawlens)** 🌿 · Local OpenClaw plugin for agent observability and guardrails, risk scoring, audit trails and a dashboard
 - **[openclaw-exporter-to-langfuse](https://github.com/aliyun/openclaw-exporter-to-langfuse)** 🌿 · OpenClaw exporter that sends agent, LLM and tool tracing to Langfuse via OpenTelemetry, from Alibaba Cloud
 - **[ClaudeSec](https://github.com/aanjaneyasinghdhoni/ClaudeSec)** 🌿 · Real-time AI agent observability dashboard that visualizes OpenTelemetry traces as a communication graph
+- **[Speakeasy control plane](https://www.speakeasy.com/)** 🌿 · Identity-enriched agent telemetry and MCP tool-call audit logs with OpenTelemetry export, backed by a public-source control plane
 
 <a id="cost-token-tracking"></a>
 ## 💰 Cost & Token Tracking
