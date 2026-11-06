@@ -92,6 +92,7 @@ Everything here has a real repo or a real product behind it, checked by hand. I 
 - **[UpTrain](https://github.com/uptrain-ai/uptrain)** 🌿 · Open source platform with 20+ preconfigured evaluations and root-cause analysis, runs locally so nothing leaves your machine
 - **[WhyLabs LangKit](https://github.com/whylabs/langkit)** · Open source toolkit that extracts quality, safety and relevance signals from prompts and responses, pairs with whylogs for production monitoring
 - **[Fiddler Auditor](https://github.com/fiddler-labs/fiddler-auditor)** 🌿 · Red-teaming and robustness auditing for LLMs covering hallucination, prompt perturbation and model comparison
+- **[Necio](https://necio.app)** 🌿 · Scheduled black-box testing of deployed chatbots and agents, grades every answer and flags behavioral drift, prompt injection and OWASP LLM Top 10 failures, no SDK
 
 <a id="open-standards-opentelemetry"></a>
 ## 📐 Open Standards & OpenTelemetry
